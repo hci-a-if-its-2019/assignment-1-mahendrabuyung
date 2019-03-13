@@ -1,5 +1,5 @@
 # Contextual Inquiry and Analysis
-## Device/ App/ Website Description
+## App Description
 The application in iPhone that allows you to stream the radio channel in Indonesia and another country.
 ## Instruction Script
 - Open the application
