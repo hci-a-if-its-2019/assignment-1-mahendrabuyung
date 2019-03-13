@@ -53,7 +53,7 @@ A	    : The interviewee
 34. A		  : Sama sama.
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](IMG_0637.PNG)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
