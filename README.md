@@ -1,12 +1,56 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+The application in iPhone that allows you to stream the radio channel in Indonesia and another country.
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+- Open the application
+- Choose 1 channel and stream it randomly
+- Mention the categories from the menu
+- Choose 1 channel from "Top Station" category
+- Search station by the City in "Station" menu
+- Try to change the streaming channel country
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+- User is male
+- He was 22 years old
+- He was studied in Communication
+- He was operate the application for the first time
+- Active in social media
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+Buyung: The interviewer
+A	    : The interviewee
+1. Buyung	: Apakah sudah pernah menggunakan aplikasi streaming radio sebelumnya?
+2. A		  : Belum pernah tu, soalnya juga jarang mendengarkan radio
+3. Buyung	: Oh kalo begitu, sekarang coba operasikan aplikasi streaming radio di HP saya
+4. A		  : Baik, mana?
+5. Buyung	: Silakan *memberikan hp saya yang sudah terbuka lock-nya*
+6. A		  : Ini aplikasinya yang iconnya gambar radio ya?
+7. Buyung	: Iya betul. Silakan dibuka 
+8. A		  : Oke
+9. Buyung	: Sekarang silakan pilih satu channel radio untuk streaming
+10. A		  : Oke... Kalau sudah, lalu apa? Ini sudah muncul suaranya
+11. Buyung: Baiklah, berarti tidak ada kesulitan ya? 
+12. A		  : Tidak, karena sudah terlihat pilihan radionya
+13. Buyung: Kalau boleh tau, tadi radio yang dipilih masuk kategori apa ya?
+14. A		  : Sebentar... *beberapa saat* Oh, recommended!
+15. Buyung: Lalu sekarang coba sebutkan kategori radio yang ada
+16. A		  : Ini saya agak bingung. Apakah menu yang tiga titik di kiri atas ini juga termasuk?
+17. Buyung: Coba dipahami dulu saja
+18. A		  : Oh iya saya paham, ini sama saja ternyata. Saya bisa geser dan pilih di tombol titik tiga di kiri atas ini.
+19. Buyung: Baiklah. Sekarang coba pilih salah satu radio dari kategori Top Station
+20. A		  : Sudah *sambil menggeser tampilan dari layar, tidak menggunakan tombol menu*
+21. Buyung: Kalau boleh tau, asalnya dari mana?
+22. A 		: Saya dari jogja
+23. Buyung: Baiklah kalo begitu, sekarang coba cari channel radio yang ada di Jogja
+24. A		  : Baiklah... *menggeser kembali tampilan layar, langsung menuju menu Search* Tapi di sini tulisannya 'Search a Station or Podcast'
+25. Buyung: Memang itu sebenarnya digunkanan untuk mencari channel radio berdasarkan namanya
+26. A		  : Oke, sebentar.... Ini saya ketemu di menu Station
+27. A		  : Sudah ketemu, Yogyakarta. Tapi saya tidak bisa input kata untuk mencari lebih cepat, harus scroll down
+28. Buyung: Iya benar, memang tidak ada kolom search di halaman itu.
+29. Buyung: Ini kan aplikasinya bisa streaming radio dari beberapa negara. Negara yang sekarang ini kan Indonesia, coba diganti. Bisa?
+30. A		  : Sebentar saya mencari menu setting-nya dulu. Ini di menu bar bawah tidak ada.
+31. Buyung: Coba diteliti lagi
+32. A		  : Oh mungkin di bendera itu... Oke, benar. Sudah. Sudah saya ganti negara Italia
+33. Buyung: Baiklah, terima kasih atas waktunya mas. Mohon maaf kalau mengganggu waktunya
+34. A		  : Sama sama.
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
