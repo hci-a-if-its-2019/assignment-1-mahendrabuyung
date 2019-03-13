@@ -59,8 +59,8 @@ A	    : The interviewee
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
-![Do's]
+![Do's and Annonation]
 - Give search column in menu 'Search by City'
 - Appear the setting button in homepage
-![Don't's]
+![Don't's and Annonation]
 - Don't place the menu thee dots button (Category menu) if the user possible to slide the screen to change the category
