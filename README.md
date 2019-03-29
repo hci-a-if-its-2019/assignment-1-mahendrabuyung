@@ -66,7 +66,7 @@ A	    : The interviewee
 - Don't place the menu thee dots button (Category menu) if the user possible to slide the screen to change the category
 
 # Remarks
-> * The App Description seems to short. Longer description will be better and helpful for readers to understand the specific characteristics of the app.
+> * The App Description seems too short. Longer description will be better and helpful for readers to understand the specific characteristics of the app.
 > * The Instruction Script, User Description, Transcript, Do's and Don't's are written well.
 > * Anyway, this assignment's results lack of models (Flow and Cultural Models). Moreover, there is no annotation on the Artifact Model regarding the breakdowns/barriers (problem found during contextual inquiry).
 
